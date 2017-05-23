@@ -214,3 +214,9 @@ iframe {
 .footer a {
     text-decoration: none;
 }
+
+.icoon {
+    height: 40px;
+    width: 40px;
+    margin-top: 10px;
+}
