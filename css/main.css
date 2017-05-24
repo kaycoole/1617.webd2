@@ -63,8 +63,13 @@ h3 {
     background: #DDD url('../_img/hero_about.jpg') no-repeat;
 }
 
+#hero_zeescape {
+    background: #DDD url('../_img/hero_zeescape.jpg') no-repeat;
+}
+
 .inleiding {
     font-style: italic;
+    color: rgb( 260, 110, 120);
 }
 
 
@@ -256,4 +261,8 @@ iframe {
 .copyright {
     color: #FFF;
     padding-left: 20px;
+}
+
+.bold {
+    font-weight: bold;
 }
