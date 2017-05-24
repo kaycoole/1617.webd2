@@ -9,6 +9,18 @@ body {
     font-family: Arial, sans-serif;
 }
 
+h2 {
+    color: rgb( 240, 80, 90);
+    font-weight: bold;
+    font-size: 130%;
+}
+
+h3 {
+    color: rgb( 200, 90, 80);
+    font-weight: bold;
+    font-size: 110%;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400');
 .hero {
     background: #DDD url('https://unsplash.it/1200/600?image=0&blur') no-repeat;
@@ -33,6 +45,10 @@ body {
 #teddy {
     background: #DDD url('../_img/hero_teddy.jpg') no-repeat;
     /*_img/hero_teddy.jpg*/
+}
+
+.inleiding {
+    font-style: italic;
 }
 
 
@@ -219,4 +235,9 @@ iframe {
     height: 40px;
     width: 40px;
     margin-top: 10px;
+}
+
+.copyright {
+    color: #FFF;
+    padding-left: 20px;
 }
