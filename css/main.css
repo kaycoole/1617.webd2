@@ -37,14 +37,30 @@ h3 {
     /*_img/hero_index.jpg*/
 }
 
-#3Ddoodler {
-    background: #DDD url('../_img/3Doodler.jpg') no-repeat;
+#hero_doodler {
+    background: #DDD url('../_img/hero_doodler.jpg') no-repeat;
     /*_img/hero_3Ddoodler.jpg*/
 }
 
 #teddy {
     background: #DDD url('../_img/hero_teddy.jpg') no-repeat;
     /*_img/hero_teddy.jpg*/
+}
+
+#hoofdfoto {
+    background: #DDD url('../_img/hoofdfoto.jpg') no-repeat;
+}
+
+#hero_portfolio {
+    background: #DDD url('../_img/hero_portfolio.jpg') no-repeat;
+}
+
+#hero_contact {
+    background: #DDD url('../_img/hero_contact.jpg') no-repeat;
+}
+
+#hero_about {
+    background: #DDD url('../_img/hero_about.jpg') no-repeat;
 }
 
 .inleiding {
